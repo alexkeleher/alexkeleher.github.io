@@ -1,1 +1,1 @@
-# H1 Scheduling Social Gatherings
+# Scheduling Social Gatherings
